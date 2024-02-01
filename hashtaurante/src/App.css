@@ -37,7 +37,7 @@ input:checked + label {
 
 .container-item-cardapio {
   display: flex;
-  width: 35rem;
+  width: 31rem;
   padding: 1rem;
   justify-content: space-evenly;
   border-radius: 10px;
